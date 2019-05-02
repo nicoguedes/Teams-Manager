@@ -1,3 +1,14 @@
 C:\Users\vinic\source\repos\Team-Manager-API\Team-Manager-API\obj\Debug\netcoreapp2.2\Team-Manager-API.csproj.CoreCompileInputs.cache
 C:\Users\vinic\source\repos\Team-Manager-API\Team-Manager-API\obj\Debug\netcoreapp2.2\Team-Manager-API.AssemblyInfoInputs.cache
 C:\Users\vinic\source\repos\Team-Manager-API\Team-Manager-API\obj\Debug\netcoreapp2.2\Team-Manager-API.AssemblyInfo.cs
+C:\Dev\Teams-Manager\Team-Manager-API\Team-Manager-API\bin\Debug\netcoreapp2.2\Team-Manager-API.deps.json
+C:\Dev\Teams-Manager\Team-Manager-API\Team-Manager-API\bin\Debug\netcoreapp2.2\Team-Manager-API.runtimeconfig.json
+C:\Dev\Teams-Manager\Team-Manager-API\Team-Manager-API\bin\Debug\netcoreapp2.2\Team-Manager-API.runtimeconfig.dev.json
+C:\Dev\Teams-Manager\Team-Manager-API\Team-Manager-API\bin\Debug\netcoreapp2.2\Team-Manager-API.dll
+C:\Dev\Teams-Manager\Team-Manager-API\Team-Manager-API\obj\Debug\netcoreapp2.2\Team-Manager-API.csprojAssemblyReference.cache
+C:\Dev\Teams-Manager\Team-Manager-API\Team-Manager-API\obj\Debug\netcoreapp2.2\Team-Manager-API.csproj.CoreCompileInputs.cache
+C:\Dev\Teams-Manager\Team-Manager-API\Team-Manager-API\obj\Debug\netcoreapp2.2\Team-Manager-API.RazorAssemblyInfo.cache
+C:\Dev\Teams-Manager\Team-Manager-API\Team-Manager-API\obj\Debug\netcoreapp2.2\Team-Manager-API.RazorAssemblyInfo.cs
+C:\Dev\Teams-Manager\Team-Manager-API\Team-Manager-API\obj\Debug\netcoreapp2.2\Team-Manager-API.AssemblyInfoInputs.cache
+C:\Dev\Teams-Manager\Team-Manager-API\Team-Manager-API\obj\Debug\netcoreapp2.2\Team-Manager-API.AssemblyInfo.cs
+C:\Dev\Teams-Manager\Team-Manager-API\Team-Manager-API\obj\Debug\netcoreapp2.2\Team-Manager-API.RazorTargetAssemblyInfo.cache

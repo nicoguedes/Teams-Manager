@@ -10,8 +10,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using TeamManagerApi.Services;
+using TeamManagerApi.Services.Impl;
 
-namespace Team_Manager_API
+namespace TeamManagerApi
 {
     public class Startup
     {
@@ -26,6 +28,8 @@ namespace Team_Manager_API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+
+            services.AddScoped<IPersonService, PersonService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

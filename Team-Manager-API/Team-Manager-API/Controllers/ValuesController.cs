@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Team_Manager_API.Controllers
+namespace TeamManagerApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

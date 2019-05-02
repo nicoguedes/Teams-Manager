@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Team_Manager_API.Model
+namespace TeamManagerApi.Model
 {
     public class Event
     {

@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Team_Manager_API": {
+    "TeamManagerApi": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/values",

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Team-Manager-API", "Team-Manager-API\Team-Manager-API.csproj", "{A95387F9-089D-4EA5-A53D-A5E439230143}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamManagerApi", "Team-Manager-API\TeamManagerApi.csproj", "{A95387F9-089D-4EA5-A53D-A5E439230143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamManager.Tests", "TeamManager.Tests\TeamManager.Tests.csproj", "{71692D62-C064-42CD-ADA2-011920579968}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A95387F9-089D-4EA5-A53D-A5E439230143}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A95387F9-089D-4EA5-A53D-A5E439230143}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A95387F9-089D-4EA5-A53D-A5E439230143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71692D62-C064-42CD-ADA2-011920579968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71692D62-C064-42CD-ADA2-011920579968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71692D62-C064-42CD-ADA2-011920579968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71692D62-C064-42CD-ADA2-011920579968}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
