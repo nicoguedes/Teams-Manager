@@ -1,0 +1,3 @@
+C:\Users\vinic\source\repos\Team-Manager-API\Team-Manager-API\obj\Debug\netcoreapp2.2\Team-Manager-API.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\Team-Manager-API\Team-Manager-API\obj\Debug\netcoreapp2.2\Team-Manager-API.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\Team-Manager-API\Team-Manager-API\obj\Debug\netcoreapp2.2\Team-Manager-API.AssemblyInfo.cs
